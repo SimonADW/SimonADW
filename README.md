@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimonADW
-- 👀 I’m interested in learning!
+- 👀 I’m interested in learning, and looking for work come june!
 - 🌱 I’m currently learning frontend development at Kristiania Univerity College, Norway
 - 💞️ I’m looking to collaborate on The Odin Project
 - 📫 How to reach me; simon-winter@outlook.com
