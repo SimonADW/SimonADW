@@ -2,7 +2,8 @@
 - 🌇 Frontend Developer - Oslo based
 - 👀 Open to work!
 - 👨‍🎓 Studied at Kristiania University College, and The Odin Project 
-- 📫 How to reach me; simon-winter@outlook.com
+- 📫 Reach me at; [My portfolio page](https://simon-winter.netlify.app/)
+
 
 <!---
 SimonADW/SimonADW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
