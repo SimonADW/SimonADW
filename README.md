@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simon!
 - 🌇 Frontend Developer - Oslo based
 - 👀 Open to work!
-- 👨‍🎓 Studied at Kristiania University College, and The Odin Project 
+- 👨‍🎓 Studied at Kristiania University College / The Odin Project / Josh Comeau React Course
 - 📫 Reach me at; [My portfolio page](https://simon-winter.netlify.app/)
 
 
